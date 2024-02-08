@@ -1,0 +1,32 @@
+.text{
+   display:flex;
+   flex-direction: column;
+   align-items:center;
+   justify-content: center;
+   text-align:center;
+   margin:2rem;
+}
+
+.title{
+   font-size:1.8rem;
+   max-width:20ch;
+}
+
+.title span{
+   color:var(--Soft-violet-accent);;
+}
+
+.desc{
+   color:var(--Slightly-transparent-white-main-paragraph);
+}
+
+.specs-container > *{
+   margin:1rem;
+}
+.specs :first-child{
+   font-size:1.8rem;
+}
+.specs :last-child{
+   color:var(--Slightly-transparent-white-main-paragraph);
+   text-transform: uppercase;
+}

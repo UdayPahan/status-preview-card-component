@@ -1,5 +1,6 @@
 .main-container{
-   width:80vw;
+   margin:4rem 2rem;
+   border: 1px solid red ;
    background-color:var(--Dark-desaturated-blue-card-background);
    color: var(--White-main-heading-stats);
 }

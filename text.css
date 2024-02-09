@@ -7,6 +7,9 @@
    margin:2rem;
 }
 
+.text *{
+   margin:0.4rem 0;
+}
 .title{
    font-size:1.8rem;
    max-width:20ch;
@@ -28,5 +31,9 @@
 }
 .specs :last-child{
    color:var(--Slightly-transparent-white-main-paragraph);
+   text-transform: uppercase;
+}
+
+.specs-container > div:last-child p:first-child{
    text-transform: uppercase;
 }

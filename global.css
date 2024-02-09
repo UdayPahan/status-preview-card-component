@@ -11,6 +11,7 @@
 body{
    background-color: var(--Very-dark-blue-main-background);
    height:100vh;
+   padding:3rem 0;
    display:flex;
    justify-content:center;
    align-items:center;

@@ -1,6 +1,9 @@
 .main-container{
-   margin:4rem 2rem;
-   border: 1px solid red ;
+   width:90vw;
+   height:90vh;
+   margin:7rem 3rem;
    background-color:var(--Dark-desaturated-blue-card-background);
+   /* background-color: yellow; */
    color: var(--White-main-heading-stats);
+   border-radius: 15px;
 }

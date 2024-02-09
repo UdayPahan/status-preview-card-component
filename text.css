@@ -37,3 +37,9 @@
 .specs-container > div:last-child p:first-child{
    text-transform: uppercase;
 }
+
+@media (min-width:600px){
+   .text{
+      width:50%;
+   }
+}

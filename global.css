@@ -16,3 +16,9 @@ body{
    font-family: 'Inter', sans-serif;
 font-family: 'Lexend Deca', sans-serif;
 }
+
+@media (min-width:600px){
+   body{
+      height:100vh;
+   }
+}

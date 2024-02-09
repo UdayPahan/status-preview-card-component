@@ -8,11 +8,14 @@
    border-radius: 15px;
 }
 @media (min-width:600px){
-   
-
 .main-container{
    display:flex;
    flex-direction: row-reverse;
 }
+
+.main-conatiner > *{
+   flex:1;
+}
+
 
 }

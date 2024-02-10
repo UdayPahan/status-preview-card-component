@@ -23,12 +23,12 @@
    color:var(--Slightly-transparent-white-main-paragraph);
 }
 
-.specs{
-    border:1px solid red ;
-}
+
 .specs-container > *{
    margin:1rem;
 }
+
+
 .specs :first-child{
    font-size:1.8rem;
 }

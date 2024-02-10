@@ -23,6 +23,9 @@
    color:var(--Slightly-transparent-white-main-paragraph);
 }
 
+.specs{
+    border:1px solid red ;
+}
 .specs-container > *{
    margin:1rem;
 }

@@ -26,7 +26,7 @@
    }
    
    .image img:last-child{
-      display:inline-block;
+      display:block;
    }
 }
 
@@ -36,7 +36,7 @@
       border-radius: 0 15px 15px 0;
    }
    .image img:first-child{
-      display: inline-block;
+      display:block;
       border-radius: 0 15px 15px 0;
    }
    

@@ -41,8 +41,20 @@
    text-transform: uppercase;
 }
 
-@media (min-width:600px){
+@media (min-width:1440px){
    .text{
       width:50%;
+      text-align: left;
+      align-items: flex-start;
+      margin-left:5rem;
+   }
+
+   .title{
+      font-size:3rem;
+   }
+
+   .desc{
+      max-width:40ch;
+      font-size: 1.2rem;
    }
 }

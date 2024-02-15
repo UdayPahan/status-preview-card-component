@@ -3,9 +3,18 @@
    flex-direction:column;
 }
 
-@media (min-width:600px) {
+.specs-container > *{
+   margin:1rem;
+}
+
+
+@media (min-width:1440px) {
    .specs-container {
       display: flex;
       flex-direction: row;
+   }
+
+   .specs-container div:first-child{
+   margin-left:0;
    }
 }

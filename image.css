@@ -15,7 +15,8 @@
 }
 
 .image{
-    background-color:var(--Soft-violet-accent);   
+    background-color:var(--Soft-violet-accent); 
+    border-radius: 15px 15px 0 0;
 }
 
 
